@@ -1,0 +1,5 @@
+*.py.bak
+source.py
+*.jsonbak
+source.*
+*.wam
